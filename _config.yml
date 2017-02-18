@@ -1,21 +1,21 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    # Weibo: http://weibo.com/lelar
+    GitHub: https://github.com/iLeyar
     Rss: /atom.xml
 
-favicon: /favicon.png
+favicon: /images/favicon.ico
 logo: /favicon.png
 
 # Comment
 # e.g disqus: seansun
-disqus:
-duoshuo:
+disqus: ileyar
+# duoshuo:
 
 # Analytics
 # google-analytics:
-ga: UA-65933410-1
+ga: UA-74627504-2
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2011
